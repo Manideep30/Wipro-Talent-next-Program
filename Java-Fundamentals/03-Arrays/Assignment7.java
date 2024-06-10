@@ -1,3 +1,8 @@
+/*Write a program to remove the duplicate elements in an array and print the same. Example)
+I/P: {12,34,12,45,67,89}
+0/P: {12,34,45,67,89}*/
+
+
 import java.util.Scanner;
 public class Assignment7 {
     public static void sort(int [] arr){

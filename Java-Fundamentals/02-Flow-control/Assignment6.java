@@ -1,3 +1,14 @@
+/*Write a program to receive a number and print the corresponding month name.
+Example1)
+C:\>java Sample 12
+D/P Expected : December
+Example2)
+C:\>java Sample
+O/P Expected: Please enter the month in numbers
+Example3)
+C:\>java Sample 15
+D/P Expected: Invalid month*/
+
 public class Assignment6 {
     public static void main(String [] args){
         int n=Integer.parseInt(args[0]);

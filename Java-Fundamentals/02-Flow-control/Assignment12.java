@@ -1,3 +1,15 @@
+/*Write a program to print * in Floyds format (using for and while loop)
+Example1)
+C:\>java Sample
+O/P: Please enter an integer number 3
+
+*
+* *
+* * *
+
+*/
+
+
 public class Assignment12 {
     public static void main(String [] args){
         int n=Integer.parseInt(args[0]);

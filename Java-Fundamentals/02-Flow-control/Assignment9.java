@@ -1,3 +1,4 @@
+/*Write a program to check if a given number is prime or not.*/
 
 public class Assignment9 {
     public static boolean isPrime(int n){

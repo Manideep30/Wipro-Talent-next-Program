@@ -1,3 +1,6 @@
+/*Write a program to initialize an array and print them in a sorted order.*/
+
+
 import java.util.Scanner;
 public class Assignment6{
     public static void main(String [] args){

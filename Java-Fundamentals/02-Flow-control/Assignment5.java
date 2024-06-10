@@ -1,3 +1,9 @@
+/*Write a program to receive a color code from the user (an Alphabhet).
+The program should then print the color name, based on the color code given.
+The following are the color codes and their corresponding color names. R->Red, B->Blue, G->Green, O->Orange, Y->Yellow, W->White.
+If color code provided by the user is not valid then print "Invalid Code".*/
+
+
 public class Assignment5 {
     public static void main(String [] args){
         char ch=args[0].charAt(0);

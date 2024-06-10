@@ -1,3 +1,6 @@
+/*Write a program to print prime numbers between 10 and 99.*/
+
+
 public class Assignment10 {
     public static boolean isPrime(int n){
         for(int i=2;i<=Math.sqrt(n);i++){

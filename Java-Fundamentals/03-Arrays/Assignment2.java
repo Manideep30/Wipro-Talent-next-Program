@@ -1,3 +1,7 @@
+/*Write a program to initialize an integer array and find the maximum and minimum value of the array.*/
+
+
+
 import java.util.Scanner;
 public class Assignment2 {
     public static void main(String [] args){

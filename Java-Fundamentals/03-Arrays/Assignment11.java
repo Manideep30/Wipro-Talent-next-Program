@@ -1,3 +1,8 @@
+/*Given an array of type int, print true if every element is 1 or 4.
+only14([1, 4, 1, 4]) → true 
+only14([1, 4, 2, 4]) false 
+only14([1, 1]) → true*/
+
 import java.util.*;
 public class Assignment11 {
     public static boolean helper(int arr[]){

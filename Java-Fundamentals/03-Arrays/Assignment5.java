@@ -1,3 +1,6 @@
+/*Write a program to find the largest 2 numbers and the smallest 2 numbers in the given array.*/
+
+
 import java.util.Scanner;
 public class Assignment5{
     public static void main(String[] args){
