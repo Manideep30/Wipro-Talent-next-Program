@@ -9,7 +9,7 @@ class Employee{
     public Employee(int empid,String empName,String email,char gender,float salary){
         setEmpId(empid);
         setSalary(salary);
-        setName(empName);;
+        setName(empName);
         setEmail(email);
         setGender(gender);
     }
